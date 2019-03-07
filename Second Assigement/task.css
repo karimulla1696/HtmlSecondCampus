@@ -1,0 +1,12 @@
+#boxes{
+    margin-top: 20px;
+}
+#boxes .box{
+    float: left;
+    width: 30%;
+    text-align: center;
+    padding: 10px;
+}
+#boxes .box img{
+    width: 200px;
+}
